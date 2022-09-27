@@ -1,3 +1,3 @@
 # fileball-icons
 
-some media icons for fileball app
+some media server icons for fileball app
