@@ -99,6 +99,14 @@
             "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Infinity.png"
         },
         {
+            "name":"XMSS",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/xmss.png"
+        },
+        {
+            "name":"GFWEmby",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/gfwemby.png"
+        },
+        {
             "name":"Pornemby",
             "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Pornemby.png"
         }
