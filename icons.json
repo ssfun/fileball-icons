@@ -101,6 +101,14 @@
         {
             "name":"sfcj",
             "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/sfcj.png"
+        },
+        {
+            "name":"awatv",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/awatv.png"
+        },
+        {
+            "name":"alphatv",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/alphatv.png"
         }
     ]
 }
