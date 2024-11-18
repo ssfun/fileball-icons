@@ -109,6 +109,14 @@
         {
             "name":"alphatv",
             "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/alphatv.png"
+        },
+        {
+            "name":"misty",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/misty.png"
+        },
+        {
+            "name":"watermelon",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/watermelon.png"
         }
     ]
 }
