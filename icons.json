@@ -80,43 +80,55 @@
         },
         {
             "name":"hkaemby",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/hkaemby.png"
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/HKA.png"
         },
         {
-            "name":"nanflix",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/nanflix.png"
+            "name":"Nanflix",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Nanflix.png"
         },
         {
-            "name":"viclub",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/viclub.png"
+            "name":"Viclub",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Viclub.png"
         },
         {
-            "name":"tanhuatv",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/tanhuatv.png"
+            "name":"Tanhuatv",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Tanhuatv.png"
         },
         {
-            "name":"starcat",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/starcat.png"
+            "name":"Starcat",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Starcat.png"
         },
         {
-            "name":"sfcj",
+            "name":"Sfcj",
             "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/sfcj.png"
         },
         {
-            "name":"awatv",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/awatv.png"
+            "name":"Awatv",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/AWA.png"
         },
         {
-            "name":"alphatv",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/alphatv.png"
+            "name":"Alphatv",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Alphatv.png"
         },
         {
-            "name":"misty",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/misty.png"
+            "name":"Misty",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Misty.png"
         },
         {
-            "name":"watermelon",
-            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/watermelon.png"
+            "name":"Watermelon",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Watermelon.png"
+        },
+        {
+            "name":"Nebula",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Nebula.png"
+        },
+        {
+            "name":"Levilde",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Levilde.png"
+        },
+        {
+            "name":"Aurora",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Aurora.png"
         }
     ]
 }
